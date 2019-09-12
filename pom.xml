@@ -12,8 +12,8 @@
 	<groupId>ro.fortech.test</groupId>
 	<artifactId>spark.embedded</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spark_cassandra_embedded_test</name>
-	<description>Demo application for testing integration of embedded Spark and embedded Cassandra </description>
+	<name>cassandra_embedded_test</name>
+	<description>Demo application for testing integration of embedded Cassandra </description>
 
 	<properties>
 		<java.version>1.8</java.version>
